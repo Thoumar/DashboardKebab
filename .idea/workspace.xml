@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04949c00-1b83-49a3-943e-fb393b91aa61" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/addProject/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/addKebab/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/projects/_id.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/projects/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/kebabs/index.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bGFY7eKNll9Z9UPP2GfRClQhOv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04949c00-1b83-49a3-943e-fb393b91aa61" name="Default Changelist" comment="" />
+      <created>1586531789766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586531789766</updated>
+      <workItem from="1586531791365" duration="755000" />
+      <workItem from="1586783587809" duration="66943000" />
+      <workItem from="1587507476721" duration="437000" />
+      <workItem from="1587548951073" duration="1558000" />
+      <workItem from="1588250571929" duration="169000" />
+      <workItem from="1588252824169" duration="333000" />
+      <workItem from="1588256344549" duration="1405000" />
+      <workItem from="1590758754907" duration="832000" />
+      <workItem from="1597148397634" duration="3498000" />
+      <workItem from="1598615831029" duration="573000" />
+      <workItem from="1599140273533" duration="3652000" />
+      <workItem from="1599211047367" duration="660000" />
+      <workItem from="1602076966649" duration="2052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="249" width="598" height="518" key="find.popup" timestamp="1597158353587">
+      <screen x="0" y="23" width="1680" height="970" />
+    </state>
+    <state x="541" y="249" width="598" height="518" key="find.popup/0.23.1680.970@0.23.1680.970" timestamp="1597158353587" />
+    <state x="385" y="194" width="670" height="542" key="search.everywhere.popup" timestamp="1599141266059">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="385" y="194" width="670" height="542" key="search.everywhere.popup/0.23.1280.777/1280.-716.2560.1360@0.23.1280.777" timestamp="1599141266059" />
+    <state x="505" y="236" width="670" height="676" key="search.everywhere.popup/0.23.1680.970@0.23.1680.970" timestamp="1597158301700" />
+  </component>
+</project>
